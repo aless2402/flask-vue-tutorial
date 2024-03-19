@@ -1,0 +1,16 @@
+
+#app {
+  margin-top: 60px;
+}
+/* Estilo personalizado para el checkbox */
+.form-check-input {
+  width: 1.25rem;
+  height: 1.25rem;
+  margin-top: 0.3rem;
+}
+
+/* Estilo para cambiar el color del borde y el fondo del checkbox cuando está marcado */
+.form-check-input:checked {
+  background-color: #007bff;
+  border-color: #007bff;
+}
